@@ -1,0 +1,2 @@
+Node.js is a JavaScript runtime that allows developers to run JavaScript code on the server-side. It provides an event-driven, non-blocking I/O model that makes it efficient and scalable. Express is a popular web framework for Node.js that makes it easier to build web applications and APIs.
+Express provides a rich set of features for handling HTTP requests, including routing, middleware, and templating, making it a popular choice for building web applications with Node.js.

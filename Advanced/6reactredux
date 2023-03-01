@@ -1,0 +1,7 @@
+React and Redux are two popular libraries for building modern web applications with JavaScript.
+
+React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components that can be composed to build complex interfaces. React uses a virtual DOM to manage updates to the UI, which can make applications more performant by reducing the number of DOM manipulations required.
+
+Redux is a state management library for JavaScript applications. It provides a predictable way to manage application state by storing it in a single, immutable data store called the "store". Redux uses a "reducer" function to update the store in response to "actions" that are dispatched by the application.
+
+React and Redux are often used together to build modern web applications. React provides a way to build UI components, while Redux provides a way to manage the state of the application.
